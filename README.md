@@ -9,8 +9,7 @@
 核心想法：**會不會寫程式不是重點。** 重點是把「你要什麼」講到精確、可驗收，
 再在 AI 動工時盯緊它別亂跑。這四個可組合的 skill，就是把這個想法變成能跑的東西。
 
-緣起：[「不會寫 code 的醫師，怎麼架構一批臨床專案」部落格文章](https://liyangchenmd.com)
-*（文章準備中）*。
+緣起：[「不會寫 code 的醫師，怎麼架構一批臨床專案」部落格文章](https://liyangchen.me/blog/physician-as-architect)。
 
 ## 四個 skill
 
@@ -73,8 +72,7 @@ Built around one idea: **whether you can write code is not the point.** The poin
 is stating what you want precisely and verifiably, then keeping the agents honest
 while they build it. Four composable skills make that idea executable.
 
-Background story: [physician-as-architect blog post](https://liyangchenmd.com)
-*(post pending)*.
+Background story: [physician-as-architect blog post](https://liyangchen.me/blog/physician-as-architect).
 
 ### The four skills
 
