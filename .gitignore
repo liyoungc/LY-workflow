@@ -1,0 +1,14 @@
+# scratch / spawn temp
+tmp/
+*.tmp
+*-prompt.txt
+*-spawn.ps1
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+*.swp
